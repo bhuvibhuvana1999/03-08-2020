@@ -1,0 +1,71 @@
+{
+ "details":{
+ 	
+ 	"picture":"task2/taskimage.png",
+ 	"name":"D.Bhuvaneswari",
+ 	"email":"dhanamjayulubhuvaneswari@gmail.com",
+ 	"phone number":"9640631119"
+ },
+   "hobbies":{
+   	  "hobbies":["Watching music","Learning new technologies","implement new thoughts","Reading books" ]
+
+   	},
+   	"Languages":{
+   		"languages":["Telugu","Tamil","English"]
+   	},
+   	"Carrier Objective":
+   	{
+   		"carrier objective":"myself i want be part of an indian army for serve my nation"
+   	},
+   	"Educational Details":[
+   	{
+   		"Course name":"B.Tech",
+   		"Institute":"G.Pulla Reddy Engineering College",
+   		"Board/University":"Jawaharlal nehru technological university anantapur",
+   		"Year of passing":"2021",
+   		"Percentage/CGPA":"7.7"
+   	},
+    
+    {
+   		"Course name":"Diploma",
+   		"Institute":"Sri Venkatesa Perumal College of Engineering and Techhnology",
+   		"Board University":"Sate Board of Technical Education,A.p",
+   		"Year of passing":"2018",
+   		"Percentage/CGPA":"89.9%"
+   	},
+   	{
+   		"Course name":"SSC",
+   		"Institute":"Sri Sai Ram Vidhyalaya EM Highschool",
+   		"Board University":" Board of Secondary Education,A.p",
+   		"Year of passing":"2015",
+   		"Percentage/CGPA":"9.0"
+   	
+   	},
+   ]
+
+   	"Mini Project":{
+   		"Project 1":"Automatic Petrol Pump System Using RFID",
+   		"Project 2":"Automatic Heart Beat Sensor Using Arduino",
+   		"Project 3":"Automatic Break Failure Indicator"
+  	},
+  	"Declaration":{
+  		"Declaration":"I hereby,declare all mentioned information is true as best of my knowledge"
+  	}
+  }
+   
+
+
+
+
+
+
+
+   	
+
+   	
+   
+ 
+
+ }
+
+}
